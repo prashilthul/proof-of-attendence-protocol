@@ -77,4 +77,5 @@ Events and claims are stored on the blockchain. When a POAP is successfully clai
 
 ## License
 
+![Image description](image.png)
 This contract is released under the [MIT License](LICENSE).
