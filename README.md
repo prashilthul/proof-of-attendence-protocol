@@ -75,7 +75,8 @@ Events and claims are stored on the blockchain. When a POAP is successfully clai
 - The contract verifies that the correct secret is provided for claiming a POAP.
 - The event creator is authenticated when creating an event to ensure only authorized users can create POAP events.
 
+![Image description](image.png)
+
 ## License
 
-![Image description](image.png)
 This contract is released under the [MIT License](LICENSE).
